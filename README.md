@@ -17,7 +17,6 @@
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg />
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg />
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg />
-  <img height = "50" width = "70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
   
 </div>
 
