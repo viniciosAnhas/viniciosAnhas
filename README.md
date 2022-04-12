@@ -11,9 +11,7 @@
 <div align="center">
   
   <img height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>
-  <img height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg />
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg />
   <img height = "50" width = "70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg />
   <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg />
