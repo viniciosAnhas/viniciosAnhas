@@ -10,14 +10,16 @@
   
 <div align="center">
   
-  <img height = "50" width = "70" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg />
-  <img height = "50" width = "70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg />
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg />
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg />
-  <img height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg />
   
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+
+
 </div>
 
 ## 
