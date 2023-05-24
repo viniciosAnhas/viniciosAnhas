@@ -1,5 +1,3 @@
-### Olá, eu sou o Vinicios Moraes Anhas!
-
 <div align="center">
 
   <a href="https://github.com/viniciosAnhas">
