@@ -8,16 +8,19 @@
   
 <div align="center">
   
+  Cloud 
   <div>
     <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   </div>
 
+  Devops
   <div>
     <img  height = "50" src="https://img.icons8.com/?size=512&id=S4wbdK79E23a&format=png" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   </div>
 
+  IOT
   <div>
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
