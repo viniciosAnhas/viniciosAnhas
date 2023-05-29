@@ -8,19 +8,19 @@
   
 <div align="center">
   
-  Cloud 
+  Cloud <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png">
   <div>
     <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   </div>
 
-  Devops
+  Devops <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/1527/PNG/512/infinity_106682.png">
   <div>
     <img  height = "50" src="https://img.icons8.com/?size=512&id=S4wbdK79E23a&format=png" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   </div>
 
-  IOT
+  IOT <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/1521/PNG/512/chiphd_106075.png">
   <div>
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
