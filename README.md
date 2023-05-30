@@ -8,7 +8,7 @@
   
 <div align="center">
   
-  Cloud <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png">
+  Cloud <img height = "30" width = "30" src = "https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png">
   <div>
     <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   </div>
