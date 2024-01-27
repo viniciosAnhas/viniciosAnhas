@@ -8,34 +8,15 @@
   
 <div align="center">
   
-  Cloud <img height = "30" width = "30" src = "https://cdn.icon-icons.com/icons2/403/PNG/512/cloud_40534.png">
   <div>
     <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  </div>
-
-  Devops <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/1527/PNG/512/infinity_106682.png">
-  <div>
     <img height = "50" src="https://img.icons8.com/?size=512&id=S4wbdK79E23a&format=png" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
     <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+    
   </div>
-
-  IOT <img height = "40" width = "40" src = "https://cdn.icon-icons.com/icons2/1521/PNG/512/chiphd_106075.png">
-  <div>
-    <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-    <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-  </div>
-  
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> -->
-  <!-- <img  height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> -->
-  <!-- <img  height = "50" src="https://img.icons8.com/?size=512&id=S4wbdK79E23a&format=png" /> -->
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /> -->
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> -->
-  <!-- <img height = "50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> -->
 
 </div>
 
@@ -43,6 +24,6 @@
   
  <div align="center">
 
-   <a href="https://br.linkedin.com/in/vinicios-moraes-anhas-199478160" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>  
+   <a href="linkedin.com/in/viniciosanhas" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>  
    
 </div>
